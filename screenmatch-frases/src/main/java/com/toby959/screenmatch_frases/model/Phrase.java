@@ -14,7 +14,7 @@ public class Phrase {
 
     private String phrase;
 
-    private String character;
+    private String actor;
 
     private String poster;
 
@@ -41,12 +41,12 @@ public class Phrase {
         this.phrase = phrase;
     }
 
-    public String getCharacter() {
-        return character;
+    public String getActor() {
+        return actor;
     }
 
-    public void setCharacter(String character) {
-        this.character = character;
+    public void setActor(String character) {
+        this.actor = character;
     }
 
     public String getPoster() {

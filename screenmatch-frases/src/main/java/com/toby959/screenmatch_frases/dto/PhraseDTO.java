@@ -5,7 +5,7 @@ public record PhraseDTO(
 
          String phrase,
 
-         String character,
+         String actor,
 
          String poster
 ) {

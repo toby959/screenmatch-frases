@@ -6,6 +6,6 @@ import org.springframework.data.jpa.repository.Query;
 
 public interface IPhaseRepository extends JpaRepository <Phrase, Long>{
 
-    @Query("SELECT p FROM Phrase p ORDER BY function('RANDOM') LIMIT 1")
+    @Query("SELECT f FROM Phrase f ORDER BY function('RANDOM') LIMIT 1")
     public Phrase getPhraseRandom();
 }

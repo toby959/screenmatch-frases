@@ -15,7 +15,7 @@ public class PhraseService {
     public PhraseDTO getPhraseRandom() {
         Phrase phrase = repository.getPhraseRandom();
         return new PhraseDTO(phrase.getTitle(), phrase.getPhrase(),
-                phrase.getCharacter(), phrase.getPoster());
+                phrase.getActor(), phrase.getPoster());
     }
 }
 
