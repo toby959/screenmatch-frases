@@ -60,6 +60,10 @@ ___
 
 ![Imagen Consola](image3.png)
 
+![Imagen Consola](image4.png)
+
+![Imagen Consola](image5.png)
+
 
 ## Licencia 📜
 
