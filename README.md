@@ -58,6 +58,8 @@ ___
 
 ![Imagen Consola](image2.png)
 
+![Imagen Consola](image3.png)
+
 
 ## Licencia 📜
 
